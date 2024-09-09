@@ -1,0 +1,52 @@
+{
+    "livros": [
+      {
+        "id": "1",
+        "titulo": "Dom Casmurro",
+        "autor": "Machado de Assis",
+        "ano": 1899,
+        "editora": "Brasiliense",
+        "preco": 40.00
+      },
+      {
+        "id": "2",
+        "titulo": "O Primo Basílio",
+        "autor": "José de Alencar",
+        "ano": 1878,
+        "editora": "Martins Fontes",
+        "preco": 35.00
+      },
+      {
+        "id": "3",
+        "titulo": "Além do Bem e do Mal",
+        "autor": "Friedrich Nietzsche",
+        "ano": 1886,
+        "editora": "Companhia das Letras",
+        "preco": 50.00
+      },
+      {
+        "id": "4",
+        "titulo": "A República",
+        "autor": "Platão",
+        "ano": 380,
+        "editora": "Editora 34",
+        "preco": 45.00
+      },
+      {
+        "id": "5",
+        "titulo": "A Arte da Guerra",
+        "autor": "Sun Tzu",
+        "ano": 5,
+        "editora": "L&PM Editores",
+        "preco": 55.00
+      },
+      {
+        "id": "6",
+        "titulo": "Summa Theologica",
+        "autor": "Tomás de Aquino",
+        "ano": 1274,
+        "editora": "Ediciones Sígueme",
+        "preco": 70.00
+      }
+    ]
+}
