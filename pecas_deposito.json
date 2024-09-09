@@ -1,0 +1,29 @@
+{
+    "deposito": {
+      "nome": "Depósito Central",
+      "localizacao": "Rua das Ferramentas, 123",
+      "pecas": [
+        {
+          "id": "P001",
+          "nome": "Chave de Fenda",
+          "quantidade": 50,
+          "categoria": "Ferramentas Manuais",
+          "preco_unitario": 15.50
+        },
+        {
+          "id": "P002",
+          "nome": "Martelo",
+          "quantidade": 30,
+          "categoria": "Ferramentas Manuais",
+          "preco_unitario": 25.00
+        },
+        {
+          "id": "P003",
+          "nome": "Chave Inglesa",
+          "quantidade": 40,
+          "categoria": "Ferramentas Manuais",
+          "preco_unitario": 45.00
+        }
+      ]
+    }
+  }
