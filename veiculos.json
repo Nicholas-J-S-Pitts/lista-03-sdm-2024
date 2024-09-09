@@ -1,0 +1,49 @@
+{
+    "veiculos": [
+      {
+        "id": "1",
+        "marca": "Toyota",
+        "modelo": "Corolla",
+        "ano": 2022,
+        "cor": "Preto",
+        "preco": 90000.00,
+        "status": "Disponível"
+      },
+      {
+        "id": "2",
+        "marca": "Honda",
+        "modelo": "Civic",
+        "ano": 2021,
+        "cor": "Branco",
+        "preco": 85000.00,
+        "status": "Vendido"
+      },
+      {
+        "id": "3",
+        "marca": "Ford",
+        "modelo": "Fusion",
+        "ano": 2021,
+        "cor": "Prata",
+        "preco": 120000.00,
+        "status": "Disponível"
+      },
+      {
+        "id": "4",
+        "marca": "Chevrolet",
+        "modelo": "Onix",
+        "ano": 2022,
+        "cor": "Azul",
+        "preco": 70000.00,
+        "status": "Disponível"
+      },
+      {
+        "id": "5",
+        "marca": "Chevrolet",
+        "modelo": "Cruze",
+        "ano": 2019,
+        "cor": "Preto",
+        "preco": 95000.00,
+        "status": "Disponível"
+      }
+    ]
+  }
